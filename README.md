@@ -51,9 +51,9 @@ node server.js
 ```
 
 The output should be something like - 
-```
-Server running on port 5000
-```
+
+``` Server running on port 5000 ```
+
 ### For frontend - 
 
 Install frontend dependencies by running - 
@@ -65,9 +65,9 @@ npm install axios react-router-dom
 Use the src/pages and all the scripts written there for the forntend setup. d o
 On the terminal run :- 
 
-```
-npm start 
-```
+``` 
+npm start
+ ```
 
 
 
