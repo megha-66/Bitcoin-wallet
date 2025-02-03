@@ -1,0 +1,70 @@
+/* Container and text styling */
+.receive-container {
+  
+  width: 600px;
+  margin: 0 auto;
+  background-color: rgb(234, 173, 30);
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+.address-container {
+  text-align: center;
+}
+
+/* Styling for address box */
+.address-box {
+  margin: 20px 0;
+  padding: 15px;
+  background-color: #fff;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.address-box p {
+  word-wrap: break-word;
+  color: #333;
+  font-weight: bold;
+}
+
+/* Styling for copy button */
+.copy-button {
+  margin-top: 10px;
+  padding: 8px 12px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.copy-button:hover {
+  background-color: #45a049;
+}
+
+.copy-button:active {
+  background-color: #3e8e41;
+}
+
+/* Error and loading text styling */
+.error {
+  color: #e74c3c;
+  font-size: 1em;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.loading {
+  font-size: 1.2em;
+  text-align: center;
+  color: #f39c12;
+  margin-top: 20px;
+}
+
