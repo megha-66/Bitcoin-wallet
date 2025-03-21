@@ -1,5 +1,5 @@
 ## Bitcoin-wallet
-This project is for demonstration purposes only, not for deployment or production. The project has the following functionalities :- 
+This project is for demonstration purposes only. The project has the following functionalities :- 
 1. Generates wallet address for a user, which can be used to receive bitcoins in.
 2. Shows Transaction history for the address. 
 3. Integrates a separate page for sending bitcoins (requires entering amount in BTC) to a user, using their bitcoin address. 
