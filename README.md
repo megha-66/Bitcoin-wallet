@@ -17,7 +17,7 @@ This project is for demonstration purposes only. The project has the following f
 
 > HTML \
 > Vanilla CSS\
-> Javascript logic
+> React.js
 
 ##### Backend : 
 ```
